@@ -262,7 +262,7 @@ export const portfolio = [
       {
         icon: <FaCode />,
         title: 'Language : ',
-        desc: 'Raect js, Node js, Mongo-DB',
+        desc: 'React.js, Node.js, Mongo-DB',
       },
       {
         icon: <FiExternalLink />,
