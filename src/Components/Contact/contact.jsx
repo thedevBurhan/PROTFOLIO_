@@ -78,7 +78,7 @@ const Contact = () => {
               <FaGithub />
             </a>
             <a
-              href="www.linkedin.com/in/mohammed-burhan-25may"
+              href="https://www.linkedin.com/in/mohammed-burhan-25may/"
               target="blank"
               className="contact_social_link"
             >

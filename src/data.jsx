@@ -11,10 +11,9 @@ import { FiFileText, FiExternalLink } from 'react-icons/fi';
 
 import Work1 from './assets/Calculator.jpg';
 import Work2 from './assets/Countries.jpg';
-import Work3 from './assets/Dashboard.jpg';
+import Work3 from './assets/Dashboard-main.jpg';
 import Work4 from './assets/Loading.gif';
-// import Work5 from './assets/project-5.jpg';
-// import Work6 from './assets/project-6.jpg';
+
 
 
 import Theme1 from './assets/purple.png';
@@ -320,57 +319,7 @@ export const portfolio = [
     ],
   },
 
-  // {
-  //   id: 5,
-  //   // img: Work5,
-  //   title: 'Landing Page',
-  //   details: [
-  //     {
-  //       title: 'Project : ',
-  //       desc: 'Website',
-  //     },
-  //     {
-  //       title: 'Client : ',
-  //       desc: 'Dribble',
-  //     },
-  //     {
-  //       title: 'Language : ',
-  //       desc: 'React JS, Node JS',
-  //     },
-  //     {
-  //       title: 'Preview : ',
-  //       desc: 'www.dribble.com',
-  //     },
-  //   ],
-  // },
-
-  // {
-  //   id: 6,
-  //   // img: Work6,
-  //   title: 'Photo Editing',
-  //   details: [
-  //     {
-  //       icon: <FiFileText />,
-  //       title: 'Project : ',
-  //       desc: 'Photo',
-  //     },
-  //     {
-  //       icon: <FiUser />,
-  //       title: 'Client : ',
-  //       desc: 'Dribble',
-  //     },
-  //     {
-  //       icon: <FaCode />,
-  //       title: 'Language : ',
-  //       desc: 'Adobe Photoshop',
-  //     },
-  //     {
-  //       icon: <FiExternalLink />,
-  //       title: 'Preview : ',
-  //       desc: 'www.dibble.com',
-  //     },
-  //   ],
-  // },
+  
 ];
 
 export const themes = [

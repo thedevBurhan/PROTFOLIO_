@@ -54,8 +54,8 @@ body {
 .dark-theme{
     --title-color:hsl(0,0%,100%);
     --text-color:hsl(0, 0%, 80%);
-    --body-color:hsl(0,0%,7%);
-    --container-color:hsla(0, 1%, 17%);
+    --body-color:hsl(0, 0%, 7%);
+    --container-color:rgba(1, 1, 1, 0.937);
     --border-color:hsl(0,0%,15%);
 }
 /**************************** Base *************/
@@ -85,6 +85,7 @@ ul{
 }
 a{
     text-decoration: none;
+    color:var(--first-color);
 }
 button,input,textarea{
     background-color: transparent;
@@ -99,7 +100,6 @@ img{
 
 /*********************Reusable Css*******************/
 .container{
-    /* background-color: var(--first-color); */
     max-width: 1140px;
     margin-inline: auto;
     padding-inline: 15px;
@@ -174,7 +174,7 @@ img{
         --normal-font-size:14px;
         --small-font-size:13px;
         --smaller-font-size:10px;
-        --tiny-font-size:8px;
+        --tiny-font-size:10px;
     
         /*************** Font Weight ************/
         --weight-400:200;

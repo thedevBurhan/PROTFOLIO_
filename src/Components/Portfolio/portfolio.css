@@ -46,7 +46,7 @@
     display: grid;
     place-items: center;
     padding: 15px;
-   
+
  
 }
 .portfolio_modal-content{
@@ -54,7 +54,7 @@
     max-width: 550px;
     padding: 32px;
     width: 100%;
-    height: 517px !important;
+  
     box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
     border-radius: 10px;
     position: relative;
@@ -111,7 +111,7 @@
         max-width: 330px;
         padding: 10px;
         width: 100%;
-        height: 417px !important; 
+        height: 450px !important; 
          
     }
     .modal_img{
