@@ -5,7 +5,7 @@ import Skills from "./Details/Skills";
 import { resume } from "../../data";
 import { FaDownload } from "react-icons/fa";
 import "./about.css";
-import CV from "../../assets/Mohammed-Burhan-CV.pdf";
+import CV from "../../assets/Mohammed-Burhan-resume.pdf";
 import ResumeItem from "./Details/ResumeItem";
 const About = () => {
   return (
